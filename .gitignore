@@ -1,0 +1,28 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled CSS files
+*.css
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore sourcemaps
+*.map
+
+# Ignore log files
+*.log
+
+# Ignore build output directory
+/dist/
+
+# Ignore development server files
+/.cache/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
